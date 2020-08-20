@@ -1,1 +1,2 @@
-Number of planets in the solar system = 7
+Number of planets in the solar system
+8
